@@ -1,3 +1,4 @@
+# Python Projects
 # Web Scraper for Job Listings
 
 This project involves creating a web scraper to extract job listings from Indeed. The scraper handles multiple pages and saves the data to a CSV file.
@@ -13,13 +14,8 @@ This project is a personal finance tracker using Tkinter and SQLite. It allows u
 This project is a simple chatbot built with Flask and SpaCy. It processes user input and responds based on predefined rules.
 
 ![Enhanced_Chatbot_Project.pdf](Enhanced_Chatbot_Project.pdf)
-# Python Projects
 
-## Projects
 
-1. [Web Scraper for Job Listings](WebScraper/README.md)
-2. [Personal Finance Tracker](FinanceTracker/README.md)
-3. [Chatbot using NLP](Chatbot/README.md)
 
 
 
